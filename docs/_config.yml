@@ -33,8 +33,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - 2022/agenda.md
-  - 2023/agenda.md
+  - 2022.md
+  - 2023.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

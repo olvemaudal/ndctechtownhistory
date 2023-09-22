@@ -1,7 +1,7 @@
 ---
 layout: default
-title: NDC TechTown 2023 agenda
-permalink: /ndctechtownhistory/2023/agenda
+title: 2023
+permalink: /2023
 ---
 
 This was the agenda for 2023

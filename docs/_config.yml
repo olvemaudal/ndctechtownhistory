@@ -22,7 +22,7 @@ title: NDC TechTown History
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site attempts to give a historical overview of previous NDC TechTown events.
-baseurl: "/ndctechtownhistory" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -31,6 +31,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - 2022/agenda.md
+  - 2023/agenda.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

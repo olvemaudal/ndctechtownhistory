@@ -22,8 +22,8 @@ title: NDC TechTown History
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site attempts to give a historical overview of previous NDC TechTown events.
-baseurl: "/ndctechtownhistory" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https//ndctechtownhistory.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 

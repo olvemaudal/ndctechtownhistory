@@ -7,7 +7,11 @@ permalink: /
 NDC TechTown is an annual conference hosted in Kongsberg, Norway, since 2017. 
 The event typically attracts around 300 attendees.
 
-This site is trying to reconstruct the history of the event by giving an overview of the workshops and talks presented for each year:
+Update information about the current and next event can be found here:
+
+  [https://ndctechtown.com](https://ndctechtown.com)
+
+This site is trying to reconstruct the history of past events by giving an overview of the workshops and talks presented for each year:
 
 - [2017](./2017)
 - [2018](./2018)

@@ -20,7 +20,7 @@ This site is trying to reconstruct the history of past events by giving an overv
 - NDC TechTown 2021 ([history](./2021), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGenQiEJRS6JIWOb8tat-8NW), [sessionize](https://ndc-techtown-2021.sessionize.com/))
 - NDC TechTown 2022 ([history](./2022), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGcmbQIzvAymHzNbRCnNe47e), [sessionize](https://ndc-techtown-2022.sessionize.com/))
 - NDC TechTown 2023 ([history](./2023), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGdBvVUXpZCKK88-Vpd5VwEo), [sessionize](https://ndc-techtown-2023.sessionize.com/))
-- NDC TechTown 2024 ([history](./2024), videos soon, [sessionize](https://ndc-techtown-2024.sessionize.com/))
+- NDC TechTown 2024 ([history](./2024), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGeGNVzH3Ju_KNJwiyKfmKIJ), [sessionize](https://ndc-techtown-2024.sessionize.com/))
 
 If you have any questions please contact: [info@ndcconferences.com](info@ndcconferences.com)
 

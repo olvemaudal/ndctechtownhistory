@@ -13,15 +13,15 @@ Information about the current and next event can be found here:
 
 This site is trying to reconstruct the history of past events by giving an overview of the workshops and talks presented for each year:
 
-- NDC TechTown 2017 ([history](./2017), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGeHIW7_TieRy3NZ9iHMEsUR))
-- NDC TechTown 2018 ([history](./2018), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGdRHryVZBFFu6abvg-HJMmh), [sessionize](https://ndc-techtown-2018.sessionize.com/))
-- NDC TechTown 2019 ([history](./2019), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGfJvVkPfPA8GSzFrz3bugmY), [sessionize](https://ndc-techtown-2019.sessionize.com/))
-- NDC TechTown 2020 ([history](./2020)) 
-- NDC TechTown 2021 ([history](./2021), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGenQiEJRS6JIWOb8tat-8NW), [sessionize](https://ndc-techtown-2021.sessionize.com/))
-- NDC TechTown 2022 ([history](./2022), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGcmbQIzvAymHzNbRCnNe47e), [sessionize](https://ndc-techtown-2022.sessionize.com/))
-- NDC TechTown 2023 ([history](./2023), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGdBvVUXpZCKK88-Vpd5VwEo), [sessionize](https://ndc-techtown-2023.sessionize.com/))
-- NDC TechTown 2024 ([history](./2024), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGeGNVzH3Ju_KNJwiyKfmKIJ), [sessionize](https://ndc-techtown-2024.sessionize.com/))
-- NDC TechTown 2025 ([history](./2025))
+- NDC TechTown 2017 ([agenda](./2017), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGeHIW7_TieRy3NZ9iHMEsUR))
+- NDC TechTown 2018 ([agenda](./2018), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGdRHryVZBFFu6abvg-HJMmh), [sessionize](https://ndc-techtown-2018.sessionize.com/))
+- NDC TechTown 2019 ([agenda](./2019), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGfJvVkPfPA8GSzFrz3bugmY), [sessionize](https://ndc-techtown-2019.sessionize.com/))
+- NDC TechTown 2020 ([agenda](./2020)) 
+- NDC TechTown 2021 ([agenda](./2021), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGenQiEJRS6JIWOb8tat-8NW), [sessionize](https://ndc-techtown-2021.sessionize.com/))
+- NDC TechTown 2022 ([agenda](./2022), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGcmbQIzvAymHzNbRCnNe47e), [sessionize](https://ndc-techtown-2022.sessionize.com/))
+- NDC TechTown 2023 ([agenda](./2023), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGdBvVUXpZCKK88-Vpd5VwEo), [sessionize](https://ndc-techtown-2023.sessionize.com/))
+- NDC TechTown 2024 ([agenda](./2024), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGeGNVzH3Ju_KNJwiyKfmKIJ), [sessionize](https://ndc-techtown-2024.sessionize.com/))
+- NDC TechTown 2025 ([agenda](./2025))
 
 If you have any questions please contact: [info@ndcconferences.com](info@ndcconferences.com)
 

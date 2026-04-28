@@ -22,6 +22,7 @@ This site is trying to reconstruct the history of past events by giving an overv
 - NDC TechTown 2023 ([agenda](./2023), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGdBvVUXpZCKK88-Vpd5VwEo), [sessionize](https://ndc-techtown-2023.sessionize.com/))
 - NDC TechTown 2024 ([agenda](./2024), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGeGNVzH3Ju_KNJwiyKfmKIJ), [sessionize](https://ndc-techtown-2024.sessionize.com/))
 - NDC TechTown 2025 ([agenda](./2025), [videos](https://www.youtube.com/playlist?list=PL03Lrmd9CiGexnOm6X0E1GBUM0llvwrqw), [sessionize](https://ndc-techtown-2025.sessionize.com/))
+- NDC TechTown 2026 - [CFP](https://ndctechtown.com/call-for-papers) still open!!! Deadline May 3 2026 
 
 If you have any questions please contact: [info@ndcconferences.com](info@ndcconferences.com)
 
